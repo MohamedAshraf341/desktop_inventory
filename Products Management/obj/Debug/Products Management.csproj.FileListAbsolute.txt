@@ -1,0 +1,34 @@
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\bin\Debug\Products Management.exe.config
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.csprojResolveAssemblyReference.cache
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_LOGIN.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.Properties.Resources.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.csproj.GenerateResource.Cache
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\bin\Debug\Products Management.exe
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\bin\Debug\Products Management.pdb
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.exe
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.pdb
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_MAIN.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_product.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_Product.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_ImgProduct.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_Cover.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_category.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_Customer.resources
+E:\courses\c#\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_User.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\bin\Debug\Products Management.exe.config
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.exe
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.pdb
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\bin\Debug\Products Management.exe
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\bin\Debug\Products Management.pdb
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.csprojResolveAssemblyReference.cache
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_category.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_Cover.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_Customer.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_Product.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.Control_User.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_Login.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_Main.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_Product.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_ImgProduct.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products_Management.Properties.Resources.resources
+F:\projects\مشروع ادارة المبيعات\Products Management\Products Management\obj\Debug\Products Management.csproj.GenerateResource.Cache
